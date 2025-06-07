@@ -6,6 +6,12 @@ to draw a rotating, textured static mesh.
 The project's purpose was purely for the sake of my own education about the API, and is almost entirely based on
 [this](https://vulkan-tutorial.com/) Vulkan tutorial.
 
+## Releases
+
+Built binaries are available for windows at: [releases/latest](https://github.com/Wardronthewarden/VulkanHelloWorld/releases/latest)
+
+Other platforms will probably follow soon.
+
 ## Compiling the project
 
 VulkanHelloWorld is written primarily in C++17.
