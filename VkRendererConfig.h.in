@@ -1,0 +1,2 @@
+#define VkRenderer_VERSION_MAJOR @VkRenderer_VERSION_MAJOR@
+#define VkRenderer_VERSION_MINOR @VkRenderer_VERSION_MINOR@
